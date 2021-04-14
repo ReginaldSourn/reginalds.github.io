@@ -1,8 +1,8 @@
-title: Hamilton
-# description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
-email: ngzhio@gmail.com
+title: Reginald Sourn
+description: Innovator Guys
+author: Reginald Sourn
+avatar: /profile.jpg
+email: sourn.rithy@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -19,7 +19,7 @@ paginate: 10
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
 # 
 # disqus:
-
+  
 # Jekyll
 # ======
 exclude:
@@ -30,14 +30,14 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: ReginaldSourn
   card: summary
-logo: logo.png
+logo: profile.jpg
 social:
-  name: Shangzhi Huang
+  name: ReginaldSourn
   links:
-    - https://twitter.com/ngzhio
+    - https://twitter.com/ReginaldSourn
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/ReginaldSourn
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
