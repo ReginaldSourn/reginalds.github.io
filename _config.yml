@@ -1,9 +1,9 @@
 title: Reginald Sourn
-description: Innovator Guys
+description:  Story
 author: Reginald Sourn
 avatar: /profile.jpg
 email: sourn.rithy@gmail.com
-
+date_format: "%-d %b, %Y"
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
